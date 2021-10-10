@@ -70,6 +70,10 @@
 - [x] Display Port Audio
 - [x] Display Port output
 - [x] USB ports
+- [x] LAN Gigabit
+- [x] USB ports
+- [x] USB sound card work flawless
+- [x] Duo boot with win 10, win10 appear in opencore boot
 - [x] ...
 
 ## What's not Working?
