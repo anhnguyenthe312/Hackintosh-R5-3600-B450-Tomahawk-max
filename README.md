@@ -17,7 +17,7 @@
 ## BIOS setings:
 ### Disabled:
     - Re-size Bar support
-    - Above 4G Decoding (because it will of when set re-size bar off in this motherboard)
+    - Above 4G Decoding (because it will be off when set re-size bar off in this motherboard)
     - SR-IOV support
     - Data Link Feature (new in this bios, disable for ensure)
     - Serial(COM) Port
@@ -36,14 +36,23 @@
 
 ### Bios Photos
 ![Advanced](/bios-config/advance-setting-1.jpeg)
+
 ![Advanced](/bios-config/advance-setting-2.jpeg)
+
 ![Advanced](/bios-config/advance-setting-3.jpeg)
+
 ![Advanced](/bios-config/advance-setting-4.jpeg)
+
 ![Advanced](/bios-config/advance-setting-5.jpeg)
+
 ![Advanced](/bios-config/advance-setting-6.jpeg)
+
 ![CPU-Advanced](/bios-config/oc-advance-cpu.jpeg)
+
 ![Security](/bios-config/security-1.jpeg)
+
 ![Security](/bios-config/security-2.jpeg)
+
 ![Security](/bios-config/security-3.jpeg)
 
 ### Overclock If you like
