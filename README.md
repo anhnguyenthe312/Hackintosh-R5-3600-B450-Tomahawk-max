@@ -35,20 +35,21 @@
     - TPM (set on and it is still working)
 
 ### Bios Photos
-[Advanced](/bios-config/advance-setting-1.jpeg)
-[Advanced](/bios-config/advance-setting-2.jpeg)
-[Advanced](/bios-config/advance-setting-3.jpeg)
-[Advanced](/bios-config/advance-setting-4.jpeg)
-[Advanced](/bios-config/advance-setting-5.jpeg)
-[Advanced](/bios-config/advance-setting-6.jpeg)
-[CPU-Advanced](/bios-config/oc-advance-cpu.jpeg)
-[Security](/bios-config/security-1.jpeg)
-[Security](/bios-config/security-2.jpeg)
-[Security](/bios-config/security-3.jpeg)
-
-[OC-Profile](/bios-config/profiles/oc-profiles.ocb)
+![Advanced](/bios-config/advance-setting-1.jpeg)
+![Advanced](/bios-config/advance-setting-2.jpeg)
+![Advanced](/bios-config/advance-setting-3.jpeg)
+![Advanced](/bios-config/advance-setting-4.jpeg)
+![Advanced](/bios-config/advance-setting-5.jpeg)
+![Advanced](/bios-config/advance-setting-6.jpeg)
+![CPU-Advanced](/bios-config/oc-advance-cpu.jpeg)
+![Security](/bios-config/security-1.jpeg)
+![Security](/bios-config/security-2.jpeg)
+![Security](/bios-config/security-3.jpeg)
 
 ### Overclock If you like
+#### Overclock Profile use for import in BIOS
+[OC-Profile](/bios-config/profiles/oc-profiles.ocb)
+
 
 ## What's Working?
 - [x] Tested with macOS Big Sur 11.6, should work with lower version
