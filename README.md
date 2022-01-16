@@ -15,7 +15,6 @@
 
 ## BIOS setings:
 ### Disabled:
-    - Re-size Bar support
     - SR-IOV support
     - Data Link Feature (new in this bios, disable for ensure)
     - Serial(COM) Port
@@ -25,6 +24,7 @@
     - Secure Boot
     - Chassis Instruction
 ### Enabled:
+    - Re-size Bar support
     - Above 4G Decoding
     - AHCI Mode
     - UEFI Only
