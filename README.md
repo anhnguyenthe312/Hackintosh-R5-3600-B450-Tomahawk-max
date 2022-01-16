@@ -1,6 +1,6 @@
 # Hackintosh-R5-3600-MSI-B450-Tomahawk-Max
 ### Hackintosh with Monterey 12.1 (21C52) 
-### Opencore: 0.7.5
+### Opencore: 0.7.7
 
 ## Hardware:
     - Motherboard: MSI B450 Tomahawk Max
