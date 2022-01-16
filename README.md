@@ -1,14 +1,13 @@
 # Hackintosh-R5-3600-MSI-B450-Tomahawk-Max
-### Hackintosh with BigSur 11.6 (20G165) 
-### Opencore: 0.7.4
+### Hackintosh with Monterey 12.1 (21C52) 
+### Opencore: 0.7.5
 
 ## Hardware:
     - Motherboard: MSI B450 Tomahawk Max
     - CPU: Ryzen R5 3600 @4.0 GHz
     - RAM: 32GB(4x8GB) @3000MHz combine Hyperx and Crucial
-    - GPU: HIS RX 460 iCooler OC 2GB (vram elpida) -> flash bios to Sapphire (vram elpida also)
+    - GPU: Powercolor Rx 6600XT Red Devil
     - SSD1: Samsung 850 evo 250GB SATA for macOS
-    - SSD2: Samsung PM981a 250GB M.2 2 PCIE for Win 10 
     - LAN Chipset: Realtek® RTL8111H Gigabit LAN
     - WiFI + BT Chipset: Intel AX200 802.11ax Wi-Fi 6, Bluetooth 5.0 in PCIe-1x
     - Audio Chipset: Realtek® ALC892 Codec
@@ -17,7 +16,6 @@
 ## BIOS setings:
 ### Disabled:
     - Re-size Bar support
-    - Above 4G Decoding (because it will be off when set re-size bar off in this motherboard)
     - SR-IOV support
     - Data Link Feature (new in this bios, disable for ensure)
     - Serial(COM) Port
@@ -27,6 +25,7 @@
     - Secure Boot
     - Chassis Instruction
 ### Enabled:
+    - Above 4G Decoding
     - AHCI Mode
     - UEFI Only
     - USB XHCI Hand-off
@@ -74,10 +73,11 @@
 - [x] USB ports
 - [x] USB sound card work flawless
 - [x] Duo boot with win 10, win10 appear in opencore boot
-- [x] Wifi and bluetooth work 
+- [x] Bluetooth work 
 - [x] ...
 
 ## What's not Working?
+- [ ] Intel Wifi due to incompatable in Monterey
 - [ ] iServices
 - [ ] Jack mic (common problem with AMD Hackintosh using AppleALC kext)
 - [ ] SideCar due to the lack of an iGPU
